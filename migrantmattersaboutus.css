@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(42, 40, 40)
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0a0a0a
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: #110d0d;
+}
+.active {
+  background-color: #04AA6D;
+}
+h1{
+    color: white;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+h4{
+  text-align: right;
+}
