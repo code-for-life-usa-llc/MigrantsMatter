@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(44, 43, 43) ;
+
+}
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0a0a0a
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: #454141;
+}
+.active {
+  background-color: #04AA6D;
+}
+
+h1{
+    color: rgb(247, 243, 243);
+    font-family: 'Calligraffitti';font-size: 14px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+p{
+    color:white
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  text-align: center;
+}
+
+
